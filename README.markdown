@@ -9,3 +9,5 @@ Maintenance table looks like this:
 | xxxxxx        |                | $1600   |       |
 | xxxxxx        |                |   $12   |       |
 | xxxxxx        |                |    $1   |       |
+
+Credit to [Nic Aitch](https://github.com/nicinabox) for being cool and doing this first.
