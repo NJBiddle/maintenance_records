@@ -7,8 +7,8 @@
 
 Comments about cars go here
 
-| Mileage      | Maintenance      | Cost    | Date  |
-| ------------ |:-------------:   | :-----: | ----: |
-| xxxxxx       |                  | $1600   |       |
-| xxxxxx       |                  |   $12   |       |
-| xxxxxx       |                  |    $1   |       |
+| Mileage       | Maintenance      | Cost    | Date  |
+| :------------ |:-------------:   | :-----: | ----: |
+| xxxxxx        |                  | $1600   |       |
+| xxxxxx        |                  |   $12   |       |
+| xxxxxx        |                  |    $1   |       |
